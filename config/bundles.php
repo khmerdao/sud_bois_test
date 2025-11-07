@@ -12,5 +12,4 @@ return [
     Symfony\Bundle\MonologBundle\MonologBundle::class => ['all' => true],
     Symfony\UX\TwigComponent\TwigComponentBundle::class => ['all' => true],
     EasyCorp\Bundle\EasyAdminBundle\EasyAdminBundle::class => ['all' => true],
-    Nakato53\Vercel\VercelBundle::class => ['dev' => true, 'test' => true],
 ];
